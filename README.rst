@@ -54,7 +54,7 @@ Example of using placeholders in your html email::
     <html lang="en">
         <body>
             <h1>Test HTML Email - <!--name--></h1>
-            <p>Hi <!--name-->, This is a test email from Pymailer - <a href="http://github.com:80/qoda/PyMailer/">http://github.com:80/qoda/PyMailer/</a>.</p>
+            <p>Hi <!--name-->, This is a test email from Pymailer - <a https://github.com/LihoyKozak/python-mailer">https://github.com/LihoyKozak/python-mailer</a>.</p>
         </body>
     </html>
 
